@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1551823670 source:c:\facultate 2\lfa\tema 1 lfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1551823791 source:c:\facultate 2\lfa\tema 1 dfa - copy\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1551990984 source:c:\facultate 2\lfa\tema 1 nfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1552146915 source:c:\facultate 2\lfa\tema 1 lnfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1552759871 source:c:\facultate 2\lfa\tema 1 lnfa - copy\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
